@@ -7,6 +7,8 @@ https://api.telegram.org/botAPITOKENNUMBER:APITOKENKEYHERE/sendmessage?chat_id=-
 https://api.telegram.org/botXXX:YYYY/getUpdates
 
 https://api.telegram.org/bot<YourBOTToken>/getUpdates
+
+curl https://api.telegram.org/bot<TOKEN>/getUpdates | jq
  
 https://api.telegram.org/bot123456789:jbd78sadvbdy63d37gda37bd8/getUpdates
 
